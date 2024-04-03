@@ -142,7 +142,6 @@ print(f"I've generated a random {pocet_cifer} digit number for you."
 
 #Generování náhodného čísla
 nahodne_cislo = (vygeneruj_nahodne_cislo(pocet_cifer))
-print(nahodne_cislo) #SMAZAT
 
 #Spuštění časovace
 pocatecni_cas = time.time()
